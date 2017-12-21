@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Kafka 0.10 Source for Structured Streaming
+Implementation-Version: 2.2.0
+Built-By: chenhaolin
+Specification-Title: Kafka 0.10 Source for Structured Streaming
+Implementation-Vendor-Id: org.apache.spark
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_112
+Specification-Version: 2.2.0
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spark Project ML Library
+Implementation-Version: 2.2.0
+Built-By: chenhaolin
+Specification-Title: Spark Project ML Library
+Implementation-Vendor-Id: org.apache.spark
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_112
+Specification-Version: 2.2.0
+
